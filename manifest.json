@@ -1,0 +1,17 @@
+{
+  "short_name": "RANDOM TOOL",
+  "name": "AANCJ MULTITASKING TOOL",
+  "icons": [
+    {
+      "src": "favicon_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#154d69",
+  "background_color": "#6fbfcf",
+  "id": "RANDOM TOOL 108",
+  "description": "I AM A PYTHON LEARNER AND THIS IS MY FIRST APP"
+}
